@@ -3,9 +3,9 @@
 ## Librairies utilisées et leurs versions
 
 - `gurobipy` (v12.0.1) : Solveur d’optimisation linéaire
-- `numpy` (v2.2.4) : Manipulation efficace de tableaux et matrices
+- `numpy` (v2.2.4)
 - `itertools` (standard Python) : Utilisé pour générer les contraintes liées aux composantes du vecteur **L** dans le modèle exponentiel
-- `random` (standard Python) : Génération aléatoire pour simulations de tests
+- `random` (standard Python)
 - `time` (standard Python) : Mesure du temps d’exécution des algorithmes
 
 ---
