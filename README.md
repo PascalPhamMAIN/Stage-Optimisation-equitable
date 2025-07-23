@@ -17,7 +17,7 @@
 ### Problème d’affectation couple
 
 - `affectation_couple.ipynb` : Fichier principal regroupant tous les algorithmes pour le problème d’affectation couple
-- `affectation_couple_v2.ipynb` / `affectation_couple_v2.py` : Version alternative du modèle
+- `affectation_couple_v2.ipynb` / `affectation_couple_v2.py`
 - `tests_affectation_couple.ipynb` : Permet de lancer **T tests** sur les algorithmes :
   - Les deux premières cellules utilisent `affectation_couple.ipynb`
   - La troisième cellule fait appel à `affectation_couple_v2.py`
@@ -30,7 +30,7 @@
 
 ---
 
-## 📊 Fichiers de résultats
+## Fichiers de résultats
 
 - `test_exp_data_n_k.ods` : Indique, pour chaque itération du modèle exponentiel, le nombre de contraintes ajoutées sur les composantes **L_k**
 - `affectation_couple_data` : Données mesurées pour chaque algorithme du problème d’affectation couple
