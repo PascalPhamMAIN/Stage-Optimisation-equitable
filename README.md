@@ -1,5 +1,7 @@
 # Stage - Optimisation équitable
 
+Les codes ont été réalisés en Python à l'aide de Jupyter Notebook.
+
 ## Librairies utilisées et leurs versions
 
 - `gurobipy` (v12.0.1) : Solveur d’optimisation linéaire
