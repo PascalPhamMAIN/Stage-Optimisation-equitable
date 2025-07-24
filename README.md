@@ -4,6 +4,7 @@
 
 - `gurobipy` (v12.0.1) : Solveur d’optimisation linéaire
 - `numpy` (v2.2.4)
+- `pandas` (v2.3.0)
 - `itertools` (standard Python) : Utilisé pour générer les contraintes liées aux composantes du vecteur **L** dans le modèle exponentiel
 - `random` (standard Python)
 - `time` (standard Python) : Mesure du temps d’exécution des algorithmes
@@ -13,6 +14,11 @@
 ## Problèmes traités
 
 ### Problème d’affectation
+
+- `prob_lineaire.ipynb` : définition des composantes **L_k** et application du modèle d'Ogryczak au problème d'affectation
+- `arrondi_iter_rdm.ipynb` : arrondi itératif sur le modèle d'Ogryczak avec une particularité : pour chaque itération, on ne cherche pas la plus grande composante de la solution optimale qui n'est pas fixée à 1. Ici, on fixe aléatoirement une de ses composantes à 1.
+- `arrondi_iteratif.ipynb` : fichier principal regroupant tous les algorithmes pour le problème d’affectation
+- `tests_3_algos.ipynb` : Lance **T tests** sur les algos contenus dans `arrondi_iteratif.ipynb`
 
 ### Problème d’affectation couple
 
