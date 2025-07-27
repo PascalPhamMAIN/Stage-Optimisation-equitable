@@ -22,9 +22,9 @@ Les codes ont été réalisés en Python à l'aide de Jupyter Notebook.
 - `arrondi_iteratif.ipynb` : fichier principal regroupant tous les algorithmes pour le problème d’affectation
 - `tests_3_algos.ipynb` : Lance **T tests** sur les algos contenus dans `arrondi_iteratif.ipynb`
 
-### Problème d’affectation couple
+### Problème d’affectation 1-1
 
-- `affectation_couple.ipynb` : Fichier principal regroupant tous les algorithmes pour le problème d’affectation couple
+- `affectation_couple.ipynb` : Fichier principal regroupant tous les algorithmes pour le problème d’affectation 1-1
 - `affectation_couple_v2.ipynb` / `affectation_couple_v2.py`
 - `tests_affectation_couple.ipynb` : Permet de lancer **T tests** sur les algorithmes :
   - Les deux premières cellules utilisent `affectation_couple.ipynb`
