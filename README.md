@@ -41,7 +41,7 @@ Les codes ont été réalisés en Python à l'aide de Jupyter Notebook.
 ## Fichiers de résultats
 
 - `test_exp_data_n_k.ods` : Indique, pour chaque itération du modèle exponentiel, le nombre de contraintes ajoutées sur les composantes **L_k**
-- `affectation_couple_data` : Données mesurées pour chaque algorithme du problème d’affectation couple
+- `affectation_couple_data` : Données mesurées pour chaque algorithme du problème d’affectation 1-1
 - `donnees_arrondi_iter.ods` :
   - **Feuille 1 et 2** : Essais spécifiques ou explorations
   - **Feuille 3** : Feuille principale contenant l’ensemble des tests significatifs sur les **trois problèmes étudiés**
